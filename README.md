@@ -1,4 +1,4 @@
-### Eaii, meu nome é Gabriel e bem vindo ao meu Github!
+### Hi, welcome! 
 
 - 🔭 I’m currently working on be a full stack dev
 - 🌱 I’m currently learning Python
