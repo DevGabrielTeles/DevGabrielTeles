@@ -1,6 +1,5 @@
 ### Hi, welcome! 
 
-- 🔭 I’m currently working on be a full stack dev
 - 🌱 I’m currently learning Python
 - 😄 Pronouns: He/His
 
