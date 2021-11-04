@@ -1,6 +1,6 @@
-### Hi, welcome! 
+### Hi there, I'm Gabriel! 
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning JavaScript
 - 😄 Pronouns: He/His
 
 <div align="center">
